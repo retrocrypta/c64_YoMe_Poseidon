@@ -1,0 +1,86 @@
+
+
+/build/rtl/mist/pll.vhd
+
+Jan 03 07PM:25:57>: Error in CNX file format.
+
+Error messages are listed in file
+/build/rtl/mist/pll.cnxerr.
+
+Can't create the custom megafunction variation file(s)
+
+/build/rtl/mist/pll.vhd
+
+Jan 03 07PM:27:14>: Error in CNX file format.
+
+Error messages are listed in file
+/build/rtl/mist/pll.cnxerr.
+
+Can't create the custom megafunction variation file(s)
+
+/build/rtl/mist/pll_c64.vhd
+
+Jan 03 07PM:29:04>: Error in CNX file format.
+
+Error messages are listed in file
+/build/rtl/mist/pll_c64.cnxerr.
+
+Can't create the custom megafunction variation file(s)
+
+/build/rtl/mist/pll.vhd
+
+Jan 03 07PM:30:43>: Error in CNX file format.
+
+Error messages are listed in file
+/build/rtl/mist/pll.cnxerr.
+
+Can't create the custom megafunction variation file(s)
+
+/build/rtl/mist/pll_c64.vhd
+
+Jan 03 07PM:30:53>: Error in CNX file format.
+
+Error messages are listed in file
+/build/rtl/mist/pll_c64.cnxerr.
+
+Can't create the custom megafunction variation file(s)
+
+/build/rtl/mist/pll.vhd
+
+Jan 03 07PM:34:37>: Error in CNX file format.
+
+Error messages are listed in file
+/build/rtl/mist/pll.cnxerr.
+
+Can't create the custom megafunction variation file(s)
+
+/build/rtl/mist/pll.vhd
+
+Jan 03 07PM:35:24>: Error in CNX file format.
+
+Error messages are listed in file
+/build/rtl/mist/pll.cnxerr.
+
+Can't create the custom megafunction variation file(s)
+
+/build/rtl/mist/pll_c64.vhd
+
+Jan 03 07PM:37:00>: Error in CNX file format.
+
+Error messages are listed in file
+/build/rtl/mist/pll_c64.cnxerr.
+
+Can't create the custom megafunction variation file(s)
+
+/build/rtl/mist/pll_c64.v
+
+Jan 03 07PM:52:16>: The following design files, which have identical names but different extensions 
+from the specified variation file, already exist in the working directory:
+
+pll_c64.BAK.vhd
+pll_c64.vhd
+
+This may create a conflict of design files and/or lead to undesirable side
+effects.
+
+Is it OK to continue file generation?
